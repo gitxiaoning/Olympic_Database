@@ -1,1 +1,1 @@
-# Olympic_Database
+# Olympic Database
